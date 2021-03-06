@@ -10,5 +10,3 @@ torrenthane.com##img[height="1782"]
 ||*turkakisi.tv/player/js/adblock.js$script
 fullhdfilmizlesene.com##.btbg
 fullhdfilmizlesene.com###vidrek
-! izlemac61.net##.hidden-xs, .pfixedd
-! izlemac61.net##div.text-center.hidden-xs
