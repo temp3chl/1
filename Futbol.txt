@@ -1,14 +1,14 @@
+##.hidden-xs, .pfixedd
+##div.text-center.hidden-xs
 selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
 ||selcuksportscdn.net/*.gif$image
 ||1.bp.blogspot.com/*.gif$image
-||izlemac*.net/spl*$image
 ||trgoals.github.io/cdn/fashion.mp4
+izlemac59.net###footer
+||izlemac*.net/spl*$image
 torrenthane.com##img[height="1782"]
 ||*fullhdfilmizlesene.com/rrk/1xbb.mp4$mp4
 ||*turkakisi.tv/content/stream/*small.mp4$mp4
 ||*turkakisi.tv/player/js/adblock.js$script
 fullhdfilmizlesene.com##.btbg
-fullhdfilmizlesene.com##vidrek
-izlemac*.net##.hidden-xs, .pfixedd
-izlemac*.net##div.text-center.hidden-xs
-izlemac*.net##footer
+fullhdfilmizlesene.com###vidrek
