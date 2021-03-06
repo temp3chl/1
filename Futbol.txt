@@ -12,3 +12,4 @@ torrenthane.com##img[height="1782"]
 ||*turkakisi.tv/player/js/adblock.js$script
 www.fullhdfilmizlesene.com##.btbg
 www.fullhdfilmizlesene.com###vidrek
+#?#.hidden-xs, .pfixedd
