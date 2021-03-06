@@ -1,5 +1,5 @@
-||izlemac*.net##.hidden-xs, .pfixedd
-||izlemac*.net##div.text-center.hidden-xs
+izlemac*.net##.hidden-xs, .pfixedd
+izlemac*.net##div.text-center.hidden-xs
 selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
 ||selcuksportscdn.net/*.gif$image
 ||1.bp.blogspot.com/*.gif$image
