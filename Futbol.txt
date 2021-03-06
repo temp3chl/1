@@ -1,8 +1,8 @@
-##.hidden-xs, .pfixedd
-www.selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
+||izlemac*.net##.hidden-xs, .pfixedd
+||izlemac*.net##div.text-center.hidden-xs
+selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
 ||selcuksportscdn.net/*.gif$image
 ||1.bp.blogspot.com/*.gif$image
-##div.text-center.hidden-xs
 ||izlemac*.net/spl*$image
 izlemac59.net###footer
 ||trgoals.github.io/cdn/fashion.mp4
@@ -10,6 +10,5 @@ torrenthane.com##img[height="1782"]
 ||*fullhdfilmizlesene.com/rrk/1xbb.mp4$mp4
 ||*turkakisi.tv/content/stream/*small.mp4$mp4
 ||*turkakisi.tv/player/js/adblock.js$script
-www.fullhdfilmizlesene.com##.btbg
-www.fullhdfilmizlesene.com###vidrek
-#?#.hidden-xs, .pfixedd
+fullhdfilmizlesene.com##.btbg
+fullhdfilmizlesene.com###vidrek
