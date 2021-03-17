@@ -1,14 +1,139 @@
+izlemac59.net###footer
+/_img/banner/kk1.png$domain=karakartal.com
+karakartal.com###maindiv > div:nth-child(7) > div:first-child > a:first-child > img
+karakartal.com###maindiv > div:nth-child(8) > div:nth-child(2) > div:nth-child(12) > div
+aspor.com.tr##.mobile-iframe, .pageIframe
+###bn-idx-marathonbet > a > img
+rutracker.org###idx-sidebar2 > div:last-child > a > img
+yts.lt##.nbox-bordered
+yts.lt##.aibox-bordered
+ecanlitvizle.live##.esnekreklam
+canlitv.plus##.blokiki
+https://www.sporx.com/tv/_iframe/embed_videojs_anasayfa.php?st=kk_embed$domain=karakartal.com
+twitter.com#$#body.logged-in{ background-color: #8c8787 !important; }
+###content-left-area > div.ad-600x45:first-child
+sporx.com###contentyorumdiv
+sporx.com###habericBody > div.no-select:last-child > a:last-child
+sporx.com###anaortadiv > div.pg-left.wide-682:nth-child(2) > div:nth-child(6)
+https://www.sporx.com/tv/_iframe/embed_videojs_anasayfa.php$domain=sporx.com
+//www.sporx.com/_iframe/haber_cnt.php?id=*$domain=sporx.com
+sporx.com##.nonsticky_video
+https://embed.dugout.com/v2/?p=*==$domain=ntvspor.net
+inoreader.com###all_gad_389578
+inoreader.com###sb_rp_upgrade
+karakartal.com##.avr-haberler
+karakartal.com###maindiv > div:nth-child(8) > div:nth-child(2) > div.box-title-red:nth-child(5)
+karakartal.com###maindiv > div:nth-child(8) > div:nth-child(2) > div:last-child
+karakartal.com###maindiv > div:nth-child(8) > div:first-child > div:last-child
+karakartal.com###maindiv > div.box-kisa:nth-child(11)
+karakartal.com###wa-fotogaleri
+aspor.com.tr##.pageArrow, .next, .fenerbahce
+sporx.com###haberimg
+trt.net.tr##div.container-fluid:nth-child(5)
+transfermarkt.co.uk###kwrMYDg1JFlT
+transfermarkt.co.uk###main > div.row:nth-child(16) > div.large-4.columns:last-child > div:nth-child(2)
+transfermarkt.co.uk###main > div.row:nth-child(16) > div.large-4.columns:last-child > div:nth-child(15)
+@@||translate.google.com^$important,document,~extension
+rutracker.org###page_footer > div:first-child
+rutracker.org###bn-top-right > a > img
+rutracker.org###sidebar1_wrap > div.bn-idx:first-child
+rutracker.org###sidebar1_wrap > div.bn-idx:nth-child(5)
+rutracker.org###sidebar1_wrap > div.bn-idx:last-child
+rutracker.org###idx-sidebar2 > div:last-child
+rutracker.org###bn-page-bottom-block
+youtube.com###chatframe
+@@||docdownloader.com^$important,document,~extension
+youtube.com###chat
+sporx.com###header
+watson.ch##div.adget.frog_block_alert.hide_on_mobile:nth-child(22)
+inoreader.com###consent_xmas2019
+kartalhaber.com##div.container:nth-child(3) > div.text-center:nth-child(5)
+kartalhaber.com##div.container:nth-child(3) > div.row:nth-child(7) > div.col-md-4.m-b-25:nth-child(3)
+kartalhaber.com##div.container:nth-child(3) > div.row:nth-child(7) > div.col-md-4.m-b-25:nth-child(7)
+fotomac.com.tr###contactLink
+kartalhaber.com##div.container:nth-child(3) > div.row:nth-child(8) > h2.baslik:first-child
+sporx.com###anaortadiv > div.pg-right.wide-300:nth-child(3)
+youtube.com###clarify-box
+instagram.com###react-root > section._9eogI.E3X2T:last-child > main.SCxLW.o64aR:nth-child(2) > section._1SP8R.j9XKR:first-child > div.COOzN:last-child > div._6Rvw2.DPiy6.Igw0E.IwRSH.eGOV_._4EzTm._22l1._49XvD.b2rUF.ZUqME:nth-child(3)
+bjk.com.tr##content.transition:nth-child(3) > section.index-main-slider.swiper-container.swiper-container-horizontal.swiper-container-fade:first-child
+ntvspor.net##div.w8xswq6rureh:nth-child(19)
+duhuliye.com###sBar
+duhuliye.com###hDetay > div > div.yorumlar:nth-child(11)
+duhuliye.com##div.container:nth-child(6)
+duhuliye.com###hDetay > div > div.hsonuAds:nth-child(7)
+duhuliye.com###hDetay > div > h4:nth-child(10)
+duhuliye.com##div.container:nth-child(3)
+duhuliye.com##div.container:nth-child(4)
+duhuliye.com##div.container:nth-child(5)
+duhuliye.com###mansetidr > a
+triyourself.co###HTML2
+karakartal.com###maindiv > div:nth-child(7) > div:first-child > div:nth-child(2) > a:nth-child(10)
+karakartal.com###maindiv > div:nth-child(7) > div:nth-child(2) > div:nth-child(14)
+karakartal.com###maindiv > div:nth-child(7) > div:first-child > div:last-child
+karakartal.com###maindiv > div:nth-child(8) > div:first-child > div:nth-child(2) > a:nth-child(10)
+karakartal.com###maindiv > div:nth-child(9) > div:first-child > div:first-child > div:nth-child(7)
+karakartal.com###maindiv > div:nth-child(9) > div:first-child > div:first-child > center:nth-child(8)
+kartalhaber.com#$#body, .wrapper {background-color: #181818e6!important;}
+kartalhaber.com#$#.white {background-color: #403c3c!important;}
+kartalhaber.com#$#h1, h2, h3, h4, h5, h6, p, li, li a, .white h5 {color:#e6e1e1; text-align: justify;}
+kartalhaber.com#$#.col-md-8 {width:100%!important;}
+kartalhaber.com#$#.resimManset h5, .mansetBaslik {text-align: center!important;}
+kartalhaber.com#$#.white h5 {text-align: center!important;}
+kartalhaber.com###vn-embedded-youtube-video
+kartalhaber.com##div.wrapper:first-child > div.container.content:nth-child(4) > div.row.blog-page.blog-item:last-child > div.col-md-8.md-margin-bottom-60:first-child > div.padding20:nth-child(2) > h3:nth-child(8)
+kartalhaber.com##div.wrapper:first-child > div.container.content:nth-child(4) > div.row.blog-page.blog-item:last-child > div.col-md-8.md-margin-bottom-60:first-child > div.padding20:nth-child(2) > iframe:last-child
+google.com#$#.f {font-size: large!important; color: hsl(0, 2%, 42%)!important; font-weight: bold!important;}
+google.com#$##foot .AaVjTc .YyVfkd {font-size: x-large!important; color: hsl(0, 87%, 50%)!important; font-weight: bold!important;}
+duhuliye.com###yatay_haber > div.row > div.col-4:last-child
+duhuliye.com###popular-galleries
+duhuliye.com###biography
+duhuliye.com###author-widget
+duhuliye.com###parite-list
+##.wa3awl4xgrb
+taraftarium24.fit###beginju
+@@||www.aspor.com.tr^$important,document,~extension
+instagram.com###react-root > section._9eogI.E3X2T:last-child > main.SCxLW.o64aR:nth-child(2) > section._1SP8R.C3uDN.j9XKR:first-child > div.COOzN.MnWb5.YT6rB:last-child
+@@||www.facebook.com^$important,document
+youtube.com###dialog
+karakartal.com###maindiv > div:nth-child(8) > div:nth-child(2) > div:nth-child(18)
+google.*###lb
+yts.mx###movie-info > div.bottom-info:last-child > div.rating-row:nth-child(4) > div.durs-bordered
+inoreader.com##.inno_dialog_scroll_overlay
+inoreader.com##.inno_dialog_modal_overlay
+jnzugw.space##a:first-child
+jnzugw.space##a:nth-child(2)
+flickr.com###search-unified-content > div.main.moola-search-div:first-child
+inoreader.com###tree_announce
+###m-popup
+###HTML10 > div.widget-content:first-child > div:nth-child(4)
+###HTML1 > div.widget-content:first-child > div.matches:nth-child(5) > ul > center:nth-child(7)
+###HTML11
+###post-body-3051755916591775680 > center:nth-child(2)
+###post-body-3051755916591775680 > center:nth-child(8)
+||ocgokhan.github.io/nodmca/STBVDO.mp4$media
+karakartal.com###consentdiv
+###sidebar-wrapper
+##div:last-child > div.hidden-xs:first-child > div
+##div:last-child > div.hidden-xs:first-child
+##div.hidden-xs:nth-child(6) > div
+##.tv-inner
+###_13797047f69fc22ec5d6c4804b19e6aa
+##div:nth-child(9) > div.hidden-xs:first-child
+###player > div.x-embed-container:last-child > a.x-embed-link:first-child
+||s7.slcksprtsbot.com/*$image
+###tv > div.hidden-xs.text-center:nth-child(4)
+###tv > div.hidden-xs.text-center:nth-child(*)
+###sponsor_banner_link
+@@||izlemac*.net^$stealth
 ##.hidden-xs, .pfixedd
-##div.text-center.hidden-xs
-selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
+www.selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
 ||selcuksportscdn.net/*.gif$image
 ||1.bp.blogspot.com/*.gif$image
-||trgoals.github.io/cdn/fashion.mp4
-izlemac59.net###footer
+##div.text-center.hidden-xs
 ||izlemac*.net/spl*$image
+||trgoals.github.io/cdn/fashion.mp4
 torrenthane.com##img[height="1782"]
-||*fullhdfilmizlesene.com/rrk/1xbb.mp4$mp4
-||*turkakisi.tv/content/stream/*small.mp4$mp4
-||*turkakisi.tv/player/js/adblock.js$script
-fullhdfilmizlesene.com##.btbg
-fullhdfilmizlesene.com###vidrek
+canlitv.vin##div.ortalama-m10:nth-child(4) > div.sag:nth-child(2)
+canlitv.vin##div.ortalama-m10:nth-child(4) > div.sol:nth-child(3)
+canlitv.vin##footer:nth-child(5)
+fullhdfilmizlesene.com##.izle-sidebar
