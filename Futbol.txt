@@ -137,3 +137,5 @@ canlitv.vin##div.ortalama-m10:nth-child(4) > div.sag:nth-child(2)
 canlitv.vin##div.ortalama-m10:nth-child(4) > div.sol:nth-child(3)
 canlitv.vin##footer:nth-child(5)
 fullhdfilmizlesene.com##.izle-sidebar
+||*qs.m3u8
+||video.twimg.com/*.m3u8
