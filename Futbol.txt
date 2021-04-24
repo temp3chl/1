@@ -123,17 +123,13 @@ karakartal.com###consentdiv
 ###tv > div.hidden-xs.text-center:nth-child(4)
 ###tv > div.hidden-xs.text-center:nth-child(*)
 ###sponsor_banner_link
-@@||izlemac*.net^$stealth
-izlemac59.net###footer
 izlemac*.net###footer
-||izlemac*.net/spl*$image
 ||izlemac*.net/*$image
 ##.hidden-xs, .pfixedd
 www.selcuksportshd60.live##.vertical-align.text-center.col-md-10.col-sm-12
 ||selcuksportscdn.net/*.gif$image
 ||1.bp.blogspot.com/*.gif$image
 ##div.text-center.hidden-xs
-
 ||trgoals.github.io/cdn/fashion.mp4
 torrenthane.com##img[height="1782"]
 canlitv.vin##div.ortalama-m10:nth-child(4) > div.sag:nth-child(2)
